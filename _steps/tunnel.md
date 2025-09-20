@@ -1,11 +1,7 @@
 ---
-title: Wolfgang Amadeus Mozart
-date: 1756-01-27 00:00:00 -0700
-enddate: 1791-12-05 00:00:00 -0700
+title: Modified RC with venturi Tunnel
+date: 2024-8-08 -0700
+enddate: 2025-2-05 00:00:00 -0700
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/185px-Croce-Mozart-Detail.jpg)
-
-Wolfgang Amadeus Mozart, baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical era.
-
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+The purpose of this product was to prevent our RC from drifting during turns. Designed with onshape and simscale, printed venturi tunnel with nylon carbon fiber. The original chasis was 樱花, with no space for a venturi tunnel, so we redesigned all the electronic placements and reprinted a baseplate. The steering system was also redesigned to make space for the tunnel. Though the product was around 1s slower than the original car, its turning performance was improved, with less drifting during turns. 
