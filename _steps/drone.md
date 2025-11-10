@@ -2,7 +2,7 @@
 title: Contra-rotating coaxial drone
 date: 2025-02-01 00:00:00 -0700
 enddate: 2025-04-01 00:00:00 -0700
-image: BobcMei/jekyll-timeline/assets/images/drone.png
+image: assets/images/drone.png
 ---
 Water-air amphibious drone. This was a really complicated project, and I contributed to parts that I am capable doing: I desigend the load unit and adjusted the PID parameters - the electronics and code for the cross domain functions is too complicated for me. 
 
